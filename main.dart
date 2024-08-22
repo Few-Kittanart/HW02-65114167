@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import 'product.dart';         // นำเข้าไฟล์ product.dart
+import 'product.dart';
 
 void main() {
   runApp(MyApp());
